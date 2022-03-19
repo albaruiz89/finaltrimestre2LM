@@ -36,10 +36,9 @@ h3{
 h2:hover{
     font-size: 180%;
 }
-img:hover{
-    filter: grayscale(1);
-}
+
 img:active{
+	filter: grayscale(1);
     border-top: 9px solid #555;
     border-right: 9px solid #555;
 }
