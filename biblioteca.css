@@ -11,7 +11,7 @@ div{
     width: 550px;
 }
 body{
-  
+    display: inline-flex;  
     flex-direction: row;
     flex-wrap: wrap;
 }
